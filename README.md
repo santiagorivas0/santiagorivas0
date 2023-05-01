@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **santiago.rivas0273@gmail.com**
 
-- 📄 Know about my experiences [https://cvsantiagorivas.tiiny.site/](https://cvsantiagorivas.tiiny.site/)
+- 📄 Know about my experiences [https://cvitaesantiagorivas.tiiny.site/](https://cvitaesantiagorivas.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
