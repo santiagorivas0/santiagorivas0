@@ -1,9 +1,9 @@
 <h1 align="center">Hey! 👋, I'm Santiago Rivas</h1>
 <h3 align="center">A Business Analyst from Uruguay</h3>
 
-- 📫 How to reach me **santiago.rivas0273@gmail.com**
+- 📫 How to reach me: **santiago.rivas0273@gmail.com**
 
-- 📄 Know about my experiences [https://smallpdf.com/es/file#s=810aab9c-50b0-4bcd-a299-f415d12d9d1a]
+- 📄 Know about my experiences: **[https://smallpdf.com/es/file#s=810aab9c-50b0-4bcd-a299-f415d12d9d1a]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
