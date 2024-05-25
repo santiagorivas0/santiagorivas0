@@ -3,8 +3,6 @@
 
 - 📫 How to reach me: **santiago.rivas0273@gmail.com**
 
-- 📄 Know about my experiences: **[https://smallpdf.com/es/file#s=810aab9c-50b0-4bcd-a299-f415d12d9d1a]**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiagorivasgallego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagorivasgallego" height="30" width="40" /></a>
